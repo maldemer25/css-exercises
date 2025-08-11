@@ -12,3 +12,4 @@
 .coloured {
     background-color: yellow;
 }
+/*Changed selectors from descendant combinators (my bad) to grouping selectors.*/
