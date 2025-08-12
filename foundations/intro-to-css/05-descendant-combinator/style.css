@@ -1,9 +1,9 @@
-/*.container .text {
+.container .text {
     background-color: yellow;
     color: #ff0000;
     font-size: 20px;
     text-align: center;
-}*/
+}
 /*
 div p {
     background-color: yellow;
@@ -11,15 +11,13 @@ div p {
     font-size: 20px;
     text-align: center;
 }
-*/
-/*
+
 div .text {
     background-color: yellow;
     color: #ff0000;
     font-size: 20px;
     text-align: center;
 }
-*/
 
 .container p {
     background-color: yellow;
@@ -27,3 +25,4 @@ div .text {
     font-size: 20px;
     text-align: center;
 }
+*/
