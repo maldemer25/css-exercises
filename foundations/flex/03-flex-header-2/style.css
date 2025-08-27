@@ -50,3 +50,8 @@ a {
 ul {
   list-style-type: none;
 }
+
+.links {
+  display: flex;
+  align-items: center;
+}
