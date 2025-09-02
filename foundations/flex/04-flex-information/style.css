@@ -30,3 +30,7 @@ img {
 .container {
   display: flex;
 }
+
+.plant {
+  max-width: 200px;
+}
