@@ -79,3 +79,7 @@ button.cancel {
   justify-content: space-between;
   margin-bottom: 10px;
 }
+
+.text {
+  margin-bottom: 16px;
+}
