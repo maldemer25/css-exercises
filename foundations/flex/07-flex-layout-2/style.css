@@ -12,7 +12,10 @@ body {
 }
  
 .container-02 {
- 
+  display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
+  gap: 32px;
 }
 
 .header {
