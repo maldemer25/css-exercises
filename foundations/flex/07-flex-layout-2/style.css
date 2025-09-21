@@ -4,10 +4,20 @@ body {
   min-height: 100vh;
 }
 
+.container-01 {
+
+}
+ 
+.container-02 {
+ 
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .footer {
